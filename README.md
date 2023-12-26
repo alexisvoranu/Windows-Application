@@ -1,12 +1,2 @@
-1. Definirea claselor necesare aplicaţiei
-2. Macheta pentru completarea unui formular tipizat
-3. Validarea datelor; salvarea / restaurarea datelor în/din fişier
-4. Acces la câmpuri prin acceleratori, interceptând tastatura
-5. Dezvoltarea unei interfeţe cu meniuri principale şi contextuale specifice domeniului
-
-6. Prezentarea grafică a unor date de bază sau calculate
-7. Imprimarea unui document
-8. Implementarea unor funcţii prin drag & drop
-
-9. Stocarea şi regăsirea datelor într-o bază de date
-10. Realizarea unui control de utilizator folosit în mai multe aplicaţii ale proiectului 
+This project involves the development of a Windows application with a focus on robust class definitions, standardized form templates, and data validation. The application features a user-friendly interface with main and context menus tailored to the specific domain. It includes the implementation of keyboard accelerators for efficient field access and drag-and-drop functionality for enhanced user experience.
+Additionally, the project incorporates data storage and retrieval in/from files, as well as in a database. The application ensures the security of user inputs through data validation mechanisms and provides the capability to save and restore data. A graphical representation of basic or calculated data is included, along with a document printing feature for enhanced output. The project also introduces a reusable user control, designed to be applicable across various modules within the application. Overall, this Windows application is designed for user convenience, and effective data management in diverse scenarios.
